@@ -2,7 +2,7 @@
 
 # Virulent Launcher for SA-MP
 
-A modern, high-performance, and fully customizable launcher for GTA San Andreas Multiplayer (SA-MP) servers. Built with Electron and React, this launcher offers a sleek design, Discord Rich Presence integration, and a seamless user experience for your community.
+A modern, high-performance, and fully customizable launcher for GTA San Andreas Multiplayer (SA-MP) servers. this launcher offers a sleek design, Discord Rich Presence integration, and a seamless user experience for your community.
 
 ![Launcher Preview](./launcher.png) 
 ![Settings Preview](./settings.png)
