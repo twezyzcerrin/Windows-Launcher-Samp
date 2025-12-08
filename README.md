@@ -28,35 +28,6 @@ You can easily rebrand this launcher for your own server by editing the `config.
 *   **Background Images & Logos**
 *   **Color Scheme (via Tailwind)**
 
-## 📦 Installation & Setup
-
-### Prerequisites
-*   Node.js (v16 or higher)
-*   npm (Node Package Manager)
-
-### Development
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/virulent-launcher.git
-    cd virulent-launcher
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Run the development server:
-    ```bash
-    npm start
-    ```
-
-### Building for Production
-To create a distributable `.exe` installer for Windows:
-
-```bash
-npm run build:win
-```
-The installer will be located in the `dist/` folder.
-
 ## 💰 Licensing & Purchase
 
 This source code is available for **$15 USD**. 
