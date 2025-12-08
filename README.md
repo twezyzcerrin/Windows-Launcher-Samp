@@ -4,7 +4,7 @@
 
 A modern, high-performance, and fully customizable launcher for GTA San Andreas Multiplayer (SA-MP) servers. Built with Electron and React, this launcher offers a sleek design, Discord Rich Presence integration, and a seamless user experience for your community.
 
-![Launcher Preview](./launcher.png)
+![Launcher Preview](./launcher.png) (./settings.png)
 
 </div>
 
@@ -41,8 +41,8 @@ This source code is available for **$15 USD**.
 *   Right to modify and distribute for your own server.
 *   Basic support for setup.
 
-**Purchase Link**: [Insert Your Purchase Link Here]
-**Contact**: [Insert Your Discord/Contact Info Here]
+**Purchase Link**: [Telegram](https://t.me/twuuzy)
+**Contact**: [Telegram](https://t.me/twuuzy)
 
 ---
 *Note: This launcher is a standalone application and requires a valid installation of GTA San Andreas and SA-MP on the user's machine.*
