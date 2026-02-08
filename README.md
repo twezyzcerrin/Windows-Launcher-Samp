@@ -42,8 +42,7 @@ This source code is available for **$15 USD**.
 *   Right to modify and distribute for your own server.
 *   Basic support for setup.
 
-**Purchase Link**: [Telegram](https://t.me/twuuzy)
-**Contact**: [Telegram](https://t.me/twuuzy)
+**Purchase**:  add me on discord id : 1247315974345068638 user : twezyzz
 
 ---
 *Note: This launcher is a standalone application and requires a valid installation of GTA San Andreas and SA-MP on the user's machine.*
