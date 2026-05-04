@@ -35,7 +35,7 @@ You can easily rebrand this launcher for your own server by editing the `config.
 
 ## 💰 Licensing & Purchase
 
-This source code is available for **$15 USD**. 
+This source code is available for **$20 USD**. 
 
 **What you get:**
 *   Full unencrypted source code.
