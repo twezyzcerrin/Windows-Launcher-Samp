@@ -21,7 +21,7 @@
     *   Saves player nickname and settings locally.
     *   User-friendly settings modal.
 *   **Customizable Configuration**: easily change server IP, port, name, and links via a simple `config.json` file.
-*   **Auto-Updater Ready**: Built on Electron structure that supports future integration with auto-update systems.
+*   **Auto-Updater Ready**:  future integration with auto-update systems.
 
 ## 🛠️ Customization
 
@@ -31,7 +31,7 @@ You can easily rebrand this launcher for your own server by editing the `config.
 *   **IP Address & Port**
 *   **Social Links (Discord, Twitter, Website)**
 *   **Background Images & Logos**
-*   **Color Scheme (via Tailwind)**
+*   **Color Scheme**
 
 ## 💰 Licensing & Purchase
 
@@ -40,10 +40,9 @@ This source code is available for **$20 USD**.
 **What you get:**
 *   Full unencrypted source code.
 *   Right to modify and distribute for your own server.
-*   Basic support for setup.
+*   Guide for setup.
 
-**Purchase**:  add me on discord id : 1247315974345068638 user : twezyzz
+**Purchase**:  add me on discord id : **1247315974345068638** user : **twezyzz**
 
 ---
 *Note: This launcher is a standalone application and requires a valid installation of GTA San Andreas and SA-MP on the user's machine.*
-
