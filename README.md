@@ -1,6 +1,6 @@
 <div align="center">
 
-# Virulent Launcher for SA-MP
+# Windows Launcher for SA-MP Multiplayer
 
 A modern, high-performance, and fully customizable launcher for GTA San Andreas Multiplayer (SA-MP) servers. this launcher offers a sleek design, Discord Rich Presence integration, and a seamless user experience for your community.
 
