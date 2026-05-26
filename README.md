@@ -4,8 +4,12 @@
 
 A modern, high-performance, and fully customizable launcher for GTA San Andreas Multiplayer (SA-MP) servers. this launcher offers a sleek design, Discord Rich Presence integration, and a seamless user experience for your community.
 
-![Launcher Preview](./launcher.png) 
-![Settings Preview](./settings.png)
+![Launcher Preview](./1.png) 
+![Settings Preview](./2.png)
+![Settings Preview](./3.png)
+![Settings Preview](./4.png)
+![Settings Preview](./5.png)
+
 
 </div>
 
