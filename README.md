@@ -35,14 +35,30 @@ You can easily rebrand this launcher for your own server by editing the `config.
 
 ## 💰 Licensing & Purchase
 
-This source code is available for **$20 USD**. 
+This source code is available for **$20 USD**.
 
-**What you get:**
-*   Full unencrypted source code.
-*   Right to modify and distribute for your own server.
-*   Guide for setup.
+### 📦 What You Get
+- Full unencrypted source code  
+- Full rights to modify and customize  
+- Permission to use and distribute for your own server  
+- Step-by-step setup guide  
 
-**Purchase**:  add me on discord id : **1247315974345068638** user : **twezyzz**
+### ⚙️ Additional Options
+- **Server-Only Version** — **$10 (Lifetime)**  
+  Use the project privately on your own server  
+
+- **Future Updates** — **$5 per update**  
+  Get access to new features and improvements  
+
+### 📩 Purchase
+
+If you're interested in purchasing, feel free to contact me:
+
+- **Discord ID:** `1247315974345068638`  
+- **Username:** `twezyzz`  
+
+### 💳 Payment Method
+- **Crypto only (USDT / BTC / ETH)**
 
 ---
 *Note: This launcher is a standalone application and requires a valid installation of GTA San Andreas and SA-MP on the user's machine.*
